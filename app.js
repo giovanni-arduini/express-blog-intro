@@ -10,31 +10,31 @@ posts = [
   {
     title: "Ciambellone",
     content: "La ricetta del ciambellone",
-    immagine: "/imgs/ciambellone.jpeg",
+    img: "/imgs/ciambellone.jpeg",
     tags: ["#classico", "#leggero", "#veloce"],
   },
   {
     title: "Cracker di barbabietola",
     content: "La ricetta del cracker di barbabietola",
-    immagine: "/imgs/cracker_barbabietola.jpeg",
+    img: "/imgs/cracker_barbabietola.jpeg",
     tags: ["#sfizioso", "#colorato", "#aperitivo"],
   },
   {
     title: "Pane fritto dolce",
     content: "La ricetta del pane fritto dolce",
-    immagine: "/imgs/pane_fritto_dolce.jpeg",
+    img: "/imgs/pane_fritto_dolce.jpeg",
     tags: ["#goloso", "#salato", "#aperitivo"],
   },
   {
     title: "Pasta di barbabietola",
     content: "La ricetta della pasta di barbabietola",
-    immagine: "/imgs/pasta_brarbabietola.jpeg",
+    img: "/imgs/pasta_brarbabietola.jpeg",
     tags: ["#colorato", "#primipiatti", "#leggero"],
   },
   {
     title: "Torta paesana",
     content: "La ricetta della torta paesana",
-    immagine: "/imgs/torta_paesana.jpeg",
+    img: "/imgs/torta_paesana.jpeg",
     tags: ["#tradizionale", "#autunnale", "#goloso"],
   },
 ];
